@@ -1,0 +1,132 @@
+.content{
+    width: 100%;
+    padding: 80px 0;
+    background: #fff;
+}
+.con1{
+    width: 90%;
+    position: relative;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.con1_left{
+    width: 80%;
+}
+.con1_right{
+    width: 17%;
+}
+.con1_title{
+    width: 100%;
+    background-color: #D5D5D5;
+    font-size: 22px;
+    color: #323232;
+    padding: 10px 0 10px 20px;
+    font-weight: 800;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.con1_con{
+    width: 100%;
+    border-radius: 20px;
+    background-color: #D5D5D5;
+    margin-top: 20px;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.con1_shop{
+    background-color: #fff;
+    width: 22%;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.con1_shop>img{
+    width: 50%;
+    height: 200px;
+    margin: 30px auto;
+}
+.shop_name{
+    text-align: left;
+    color: #5B5B5B;
+    margin: 20px auto;
+}
+.shop_money{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    color: #5B5B5B;
+    font-size: 18px;
+}
+.shop_money>div>span{
+    font-size: 20px;
+    font-weight: 800;
+}
+.con1_shop{
+    position: relative;
+}
+.shop_logo{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+.shop_logo>img{
+    width: 30px;
+    margin-bottom: 10px;
+}
+.shop_btn{
+    width: 95%;
+    background-color: #FFA04A;
+    color: #5B5B5B;
+    margin: 10px auto 0 auto;
+    font-size: 20px;
+    padding: 5px 0;
+    border-radius: 50px;
+}
+.op_co{
+    background-color: #D5D5D5;
+}
+.con1_right{
+    width: 17%;
+}
+.con1_top_text{
+    font-size: 18px;
+    padding: 10px 0;
+}
+.con1_top_text>p{
+    color: #686868;
+    transform: scale(0.8) translateX(-12.5%);
+}
+.con1_img{
+    width: 50%;
+    margin: 20px auto;
+}
+.con_1_right_title{
+    background: #4780FF;
+    color: #CCCCCC;
+    padding: 5px 0 5px 5px;
+    margin-bottom: 20px;
+}
+.right_box_text{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    background: #427D8E;
+    color: #DFDFDF;
+    font-size: 10px;
+    display: inline-block;
+    margin-top: 15px;
+}
+.con1_right_con{
+    margin-bottom: 20px;
+}
+.con1_right_con>p{
+    margin-top: 10px;
+}
